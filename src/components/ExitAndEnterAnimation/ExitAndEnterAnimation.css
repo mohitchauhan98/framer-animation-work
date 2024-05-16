@@ -1,0 +1,13 @@
+.animation-circle{
+    background-color: white;
+    width: 128px;
+    height: 128px;
+    border-radius: 50%;
+    margin: 20px auto;
+}
+.animation-inside{
+    background-color: black;
+    width: 96px;
+    height: 96px;
+    border-radius: 50%;
+}

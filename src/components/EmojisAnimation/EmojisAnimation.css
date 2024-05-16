@@ -1,0 +1,31 @@
+.emoji-container{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+
+}
+.emoji-box{
+    display: flex;
+    justify-content: space-evenly;
+    width: 265px;
+    height: 48px;
+    background-color: white;
+    border-radius: 50%;
+    padding: 8px;
+    align-items: center;
+    font-size: 22px;
+}
+.emoji{
+    background-color: transparent;
+}
+button{
+    color: white;
+    background-color: skyblue;
+    font-weight:lighter;
+    padding: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+}
